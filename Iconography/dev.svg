@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="434px" height="266px" viewBox="0 0 434 266" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>dev</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="dev" fill="#000000">
-            <polygon id="Path-2" points="83.0068714 18 133 18 49.9931286 141.329958 133 248 83.0068714 248 0 141.329958"></polygon>
-            <polygon id="Path-2-Copy-2" points="236.152501 0 286 0 197.847499 266 148 266"></polygon>
-            <polygon id="Path-2-Copy" transform="translate(367.500000, 133.000000) scale(-1, 1) translate(-367.500000, -133.000000) " points="384.006871 18 434 18 350.993129 141.329958 434 248 384.006871 248 301 141.329958"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="434" height="266" version="1.1" viewBox="0 0 434 266"><title>dev</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="dev" fill="#000"><polygon id="Path-2" points="83.007 18 133 18 49.993 141.33 133 248 83.007 248 0 141.33"/><polygon id="Path-2-Copy-2" points="236.153 0 286 0 197.847 266 148 266"/><polygon id="Path-2-Copy" points="384.007 18 434 18 350.993 141.33 434 248 384.007 248 301 141.33" transform="translate(367.500000, 133.000000) scale(-1, 1) translate(-367.500000, -133.000000)"/></g></g></svg>
